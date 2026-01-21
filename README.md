@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Renan Souza! 🚀
 
-<!--
-**rnsouza-dev/rnsouza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em criar soluções reais para desafios de TI e gestão operacional. Atualmente, busco aplicar tecnologia para otimizar processos internos e automação de inventários.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias & Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Backend/Database:** Supabase (PostgreSQL)
+- **Versionamento:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projeto em Destaque
+- **[Sistema de Controle de Equipamentos](https://github.com/rnsouza-dev/sistema-controle-equipamentos):** Aplicação Full Stack integrada ao Supabase para gestão de ativos em tempo real.
+  - [Acesse o Sistema Online aqui](https://rnsouza-dev.github.io/sistema-controle-equipamentos/)
+
+---
+📫 **Como me encontrar:** [(https://www.linkedin.com/in/renan-souza-lucio-da-silva/)] | [renan.souza20405@yahoo.com]
