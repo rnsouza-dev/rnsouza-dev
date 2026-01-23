@@ -8,7 +8,7 @@ Sou um desenvolvedor focado em criar soluções reais para desafios de TI e gest
 - **Versionamento:** Git & GitHub
 
 ### 📂 Projeto em Destaque
-- **[Sistema de Controle de Equipamentos](https://github.com/rnsouza-dev/sistema-controle-equipamentos):** Aplicação Full Stack integrada ao Supabase para gestão de ativos em tempo real.
+- **[Sistema de Controle de Equipamentos](https://github.com/rnsouza-dev/sistema-controle-equipamentos):** Aplicação Full Stack integrada ao Supabase para gestão de colaboradores em tempo real.
   - [Acesse o Sistema Online aqui](https://rnsouza-dev.github.io/sistema-controle-equipamentos/)
 
 ---
