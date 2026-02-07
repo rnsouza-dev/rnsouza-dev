@@ -12,4 +12,4 @@ Sou um desenvolvedor focado em criar soluções reais para desafios de TI e gest
   - [Acesse o Sistema Online aqui](https://rnsouza-dev.github.io/sistema-controle-equipamentos/)
 
 ---
-📫 **Como me encontrar:** [(https://www.linkedin.com/in/renan-souza-lucio-da-silva/)] | [renan.souza20405@yahoo.com]
+📫 **Como me encontrar:** [(https://www.linkedin.com/in/renan-souza-lucio-da-silva/)] | [renan.souza2405@yahoo.com]
